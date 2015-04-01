@@ -1,17 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-                      "http://www.w3.org/TR/html40/loose.dtd">
-<HTML>
-<!-- Created on January, 14 2015 by texi2html 1.66 -->
-<!--
-Written by: Lionel Cons <Lionel.Cons@cern.ch> (original author)
-            Karl Berry  <karl@freefriends.org>
-            Olaf Bachmann <obachman@mathematik.uni-kl.de>
-            and many others.
-Maintained by: Many creative people <dev@texi2html.cvshome.org>
-Send bugs and suggestions to <users@texi2html.cvshome.org>
-
--->
-<HEAD>
 <TITLE>Pintos Projects: Project 1--Threads</TITLE>
 
 <META NAME="description" CONTENT="Pintos Projects: Project 1--Threads">
@@ -1242,4 +1228,3 @@ using <A HREF="http://texi2html.cvshome.org"><I>texi2html</I></A>
 
 </BODY>
 </HTML>
-
