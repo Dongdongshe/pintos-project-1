@@ -10,16 +10,6 @@
 
 <BODY >
 
-<A NAME="SEC15"></A>
-<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
-<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="pintos_1.html#SEC1"> &lt;&lt; </A>]</TD>
-<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="pintos_3.html#SEC32"> &gt;&gt; </A>]</TD>
-<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="pintos.html#SEC_Top">Top</A>]</TD>
-<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="pintos.html#SEC_Contents">Contents</A>]</TD>
-<TD VALIGN="MIDDLE" ALIGN="LEFT">[Index]</TD>
-<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="pintos_abt.html#SEC_About"> ? </A>]</TD>
-</TR></TABLE>
-
 <HR SIZE=2>
 <H1> 2. Project 1: Threads </H1>
 <!--docid::SEC15::-->
